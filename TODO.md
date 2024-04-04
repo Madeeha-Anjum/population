@@ -1,3 +1,4 @@
 # TODO
 
-- [] add tailwind
+- [x] add tailwind
+- []  Add axios
